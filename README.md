@@ -19,7 +19,7 @@ Merge string.py
 
 ##
 删除空白
-![avatar](https://cdn.jsdelivr.net/gh/Sagiri-lzumi/blog-image/屏幕截图 2022-10-28 203212.png)
-![avatar](https://cdn.jsdelivr.net/gh/Sagiri-lzumi/blog-image/屏幕截图 2022-10-28 203335.png)
+![avatar](https://raw.githubusercontent.com/Sagiri-lzumi/python-learning-sharing/main/IMG/2022-10-28%20203212.png)
+![avatar](https://raw.githubusercontent.com/Sagiri-lzumi/python-learning-sharing/main/IMG/2022-10-28%20203335.png)
 
 ##
