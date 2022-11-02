@@ -44,3 +44,10 @@ print(i)<br>
 *后期重写，将文件放在books中，从而实现一个函数从而自动化将文件  
 单独对不同文件起作用*<br>
 ##
+untitest_tset.py<br>
+网上的一个自动化测试的实例<br>
+*请注意最后面的代码使其运行*<br>
+>if __name__ == '__main__':
+>    unittest.main()
+  
+##
