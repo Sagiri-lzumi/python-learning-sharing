@@ -6,3 +6,4 @@ print(id(i))
 #返回出来i的地址
 print("hello")
 
+print("hello","world")
